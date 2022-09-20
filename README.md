@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyajitkuila
-- 👀 I’m interested in QA Automation
+- 👀 I’m a QA Automation Engineer
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
